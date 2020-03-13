@@ -1,0 +1,18 @@
+.main-img{
+    margin-top: 40px;
+    max-width: 80%;
+    max-height: 60vh;
+}
+
+.logo{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.main-sec strong{
+    color:#313E70;
+}
+
+.company-sec{
+    margin: 30px;
+}
